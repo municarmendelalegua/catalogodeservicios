@@ -1,0 +1,13 @@
+# Scripts internos - no necesarios en la web
+organizar-fotos.ps1
+read-docx.ps1
+read-docx2.ps1
+read-pdf.ps1
+inject-services.ps1
+ANALISIS-CATEGORIZACION.md
+
+# Carpeta con documentos pesados (no necesarios para la web)
+Informacion/
+
+# Git
+.git/
